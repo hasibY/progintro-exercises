@@ -7,5 +7,5 @@ Useful links:
 
 ## Formatting Examples:
 
-1. *Italic* text.
-2. **Bold** Text.
+1. *Italic* tekst.
+2. **Bold** Tekst.
