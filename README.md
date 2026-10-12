@@ -7,5 +7,8 @@ Useful links:
 
 ## Formatting Examples:
 
-1. *Italic* fremhævelse.
-2. **Bold** fremhævelse.
+
+1. *Italic* fremhævelse (emphasis).
+2. **Bold** fremhævelse (emphasis).
+
+
